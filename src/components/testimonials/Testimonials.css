@@ -1,0 +1,11 @@
+.slick-prev:before, .slick-next:before {
+    color: black; /* Change this to the color you want */
+    /* Other existing styles */
+}
+
+.slick-prev:before{
+    margin-left: 15px;
+}
+.slick-next:before{
+    margin-left: -33px;
+}

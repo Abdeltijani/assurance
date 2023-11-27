@@ -1,0 +1,31 @@
+<svg width="46" height="68" viewBox="0 0 46 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="46" height="68" fill="black"/>
+<g id="Desktop" clip-path="url(#clip0_58_149)">
+<rect width="1920" height="6936.57" transform="translate(-1055 -476)" fill="white"/>
+<g id="Hero header section">
+<rect width="1920" height="943.556" transform="translate(-1055 -476)" fill="url(#paint0_linear_58_149)"/>
+<g id="Section">
+<g id="Container">
+<g id="Content">
+<g id="Heading and subheading">
+<g id="Heading">
+<g id="Row">
+<path id="Hand-drawn arrow" d="M13.0382 58.1668C11.0658 59.1274 7.68874 62.2534 9.95409 67.0708C7.68874 62.2534 3.17809 62.971 1.2063 63.9316M44.7937 1.66431C35.239 6.0629 17.4834 19.1915 22.8995 36.5165C29.6696 58.1717 54.0391 41.0321 39.7431 28.2719C25.4478 15.5123 -10.3952 33.7631 8.98026 64.3343" stroke="#101828" stroke-width="3"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_58_149" x1="960" y1="0" x2="960" y2="943.556" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EBE9FE"/>
+<stop offset="1" stop-color="#EBE9FE" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_58_149">
+<rect width="1920" height="6936.57" fill="white" transform="translate(-1055 -476)"/>
+</clipPath>
+</defs>
+</svg>
