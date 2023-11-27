@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { AiOutlineMenu } from "react-icons/ai";
 import { Link } from "react-scroll";
+import { Route } from "react-router-dom";
 
 import "./Navbar.css";
 
