@@ -16,11 +16,24 @@ function App() {
       <main>
         <div id="hero">
           {/* <HeroSection /> */}
-          <Features />
-          <Testimonials />
-          <HowItWorks />
-          <Faq />
-          <Footer />
+          <div id="features">
+            <Features />
+          </div>
+
+          <div id="testimonials">
+            <Testimonials />
+          </div>
+
+          <div id="howitworks">
+            <HowItWorks />
+          </div>
+          <div id="faq">
+            <Faq />
+          </div>
+
+          <div id="footer">
+            <Footer />
+          </div>
         </div>
       </main>
     </div>

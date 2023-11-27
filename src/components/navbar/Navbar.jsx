@@ -10,6 +10,9 @@ const Navbar = () => {
   const handleChange = () => {
     setMenu(!menu);
   };
+  const closeMenu = () => {
+    setMenu(false);
+  };
 
   return (
     <div>
@@ -22,7 +25,7 @@ const Navbar = () => {
 
         <nav className="hidden md:flex gap-16 font-medium p-1 text-lg mr-18rem">
           <Link
-            to="whatwedo"
+            to="/whatwedo"
             spy={true}
             smooth={true}
             duration={500}
@@ -76,6 +79,7 @@ const Navbar = () => {
           smooth={true}
           duration={500}
           className="hover:text-[#539165] transition-all cursor-pointer"
+          onClick={closeMenu}
         >
           What we Do
         </Link>
@@ -85,6 +89,7 @@ const Navbar = () => {
           smooth={true}
           duration={500}
           className="hover:text-[#539165] transition-all cursor-pointer"
+          onClick={closeMenu}
         >
           Testimonials
         </Link>
@@ -94,6 +99,7 @@ const Navbar = () => {
           smooth={true}
           duration={500}
           className="hover:text-[#539165] transition-all cursor-pointer"
+          onClick={closeMenu}
         >
           How it Works
         </Link>
@@ -103,6 +109,7 @@ const Navbar = () => {
           smooth={true}
           duration={500}
           className="hover:text-[#539165] transition-all cursor-pointer"
+          onClick={closeMenu}
         >
           FAQ
         </Link>
